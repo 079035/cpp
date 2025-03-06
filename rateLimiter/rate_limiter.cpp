@@ -23,5 +23,5 @@ private:
 };
 
 int main() {
-    
+
 }
